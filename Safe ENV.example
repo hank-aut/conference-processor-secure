@@ -1,7 +1,0 @@
-# Apollo API Configuration
-APOLLO_API_KEY=your_apollo_api_key_here
-
-# Salesforce Configuration  
-SALESFORCE_USERNAME=your_salesforce_username
-SALESFORCE_PASSWORD=your_salesforce_password
-SALESFORCE_TOKEN=your_salesforce_security_token
